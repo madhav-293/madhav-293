@@ -1,9 +1,9 @@
-<!-- - 👋 Hi, I’m @madhav-293
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
- -->
+- 👋 Hi, I’m @madhav
+<!-- - 👀 I’m interested in ... -->
+- 🌱 I’m currently learning React
+- 💞️ I’m looking to collaborate on Web Developnment Projects
+- 📫 How to reach me @madhavm774@gmail.com 
+
  
  [![@madhavm774's Holopin board](https://holopin.me/madhavm774)](https://holopin.io/@madhavm774)
 <!---
