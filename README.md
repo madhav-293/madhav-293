@@ -1,6 +1,6 @@
-```bash
+
 # - 👋 Hi, I’m @madhav
-```
+
 <!-- - 👀 I’m interested in ... -->
 ```bash
 - 🌱 I’m currently learning React
