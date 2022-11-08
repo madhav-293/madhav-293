@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @madhav
+# - 👋 Hi, I’m @madhav
 <!-- - 👀 I’m interested in ... -->
 - 🌱 I’m currently learning React
 - 💞️ I’m looking to collaborate on Web Development Projects
