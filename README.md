@@ -11,6 +11,10 @@
 ```bash
 - 📫 Reach me @madhavm774@gmail.com 
 ```
+
+## 🛠 Skills
+C, Python, Java, MYSQL, HTML, CSS, Javascript 
+
  
  [![@madhavm774's Holopin board](https://holopin.me/madhavm774)](https://holopin.io/@madhavm774)
 <!---
