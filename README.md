@@ -1,9 +1,16 @@
+```bash
 # - 👋 Hi, I’m @madhav
+```
 <!-- - 👀 I’m interested in ... -->
+```bash
 - 🌱 I’m currently learning React
+```
+```bash
 - 💞️ I’m looking to collaborate on Web Development Projects
+```
+```bash
 - 📫 Reach me @madhavm774@gmail.com 
-
+```
  
  [![@madhavm774's Holopin board](https://holopin.me/madhavm774)](https://holopin.io/@madhavm774)
 <!---
