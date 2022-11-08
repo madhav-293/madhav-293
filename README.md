@@ -15,6 +15,7 @@
 ## 🛠 Skills
 C, Python, Java, MYSQL, HTML, CSS, Javascript 
 
+<br>
  
  [![@madhavm774's Holopin board](https://holopin.me/madhavm774)](https://holopin.io/@madhavm774)
 <!---
