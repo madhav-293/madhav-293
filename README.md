@@ -1,5 +1,5 @@
 
-# - 👋 Hi, I’m @madhav
+# - 👋 Hi, I’m Madhav.
 
 <!-- - 👀 I’m interested in ... -->
 ```bash
