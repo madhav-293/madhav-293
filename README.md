@@ -16,6 +16,7 @@
 C, Python, Java, MYSQL, HTML, CSS, Javascript 
 
 <br>
+<hr>
  
  [![@madhavm774's Holopin board](https://holopin.me/madhavm774)](https://holopin.io/@madhavm774)
 <!---
