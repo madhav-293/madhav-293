@@ -1,3 +1,4 @@
+![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)
 <h1 align="center">Hi 👋, I'm Madhav Maheshwari</h1>
 <h3 align="center">A passionate Web developer from India!</h3>
      
@@ -43,10 +44,11 @@
 
 <p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=madhav-293&show_icons=true&locale=en&layout=compact" alt="madhav-293" /></p>  
   
-    
+  
     
 
 <p align="left">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=madhav-293&show_icons=true&locale=en" alt="madhav-293" /></p>  
+
 
 
 <p align="left"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=madhav-293&" alt="madhav-293" /></p>  
