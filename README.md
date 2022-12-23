@@ -3,7 +3,6 @@
 <h3 align="center">A passionate Web developer from India!</h3>
    
    
-   
 - 🔭 I’m currently working on **connect-4**
 
 - 🌱 I’m currently learning **React**
