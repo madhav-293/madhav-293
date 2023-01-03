@@ -1,7 +1,6 @@
 ![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)
 <h1 align="center">Hi 👋, I'm Madhav Maheshwari</h1>
 <h3 align="center">A passionate Web developer from India!</h3>
-    
    
 - 🔭 I’m currently working on **connect-4**
 
