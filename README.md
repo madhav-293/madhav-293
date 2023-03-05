@@ -1,6 +1,6 @@
 ![MasterHead](https://jusmarktech.com/public/a/images/pages/web_development.gif)
 <h1 align="center">Hi 👋, I'm Madhav Maheshwari</h1>
-<h3 align="center">A passionate Web developer from India!</h3>
+<h3 align="center">A passionate Web developer from India! </h3>
    
 
 - 🔭 I’m currently working on **Food Delivery Website**
@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/madhav-293](https://github.com/madhav-293)
 
-- 📫 How to reach me **madhavm774@gmail.com**
+- 📫 Reach me **madhavm774@gmail.com**
 
 <h3 align="left">Connect with me: </h3>
 <p align="left">
